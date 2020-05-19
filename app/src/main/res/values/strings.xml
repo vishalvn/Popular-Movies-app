@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="api_key">0659fc41591cd95ccdbe9343772411b5</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="poster">poster</string>
+    <string name="trailers">Trailers:</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="mark_as_a_favourite">MARK AS A FAVOURITE</string>
+    <string name="favourite">FAVOURITE</string>
+    <string name="content_not_found">Content Not Found</string>
+    <string name="reviews">Reviews:</string>
+    <string name="image">image</string>
+    <string name="play">play</string>
+    <string name="btn_skip_intro">Skip Intro</string>
+    <string name="error">Error playing video</string>
+
+
+</resources>
